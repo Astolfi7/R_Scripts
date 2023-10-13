@@ -1,1 +1,1 @@
-# R_Scripts
+This R script searches for phone numbers in columns and tells us by the console which cells has the phone number. The script searches for lithuanian numbers but you can easily edit "grepl("(^|[^0-9])(370|86)\\d+"" to other number if you need number from other country. Path to file also need to be changed accordingly to where the file is stored.
